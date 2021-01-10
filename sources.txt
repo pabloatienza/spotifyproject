@@ -1,0 +1,5 @@
+Ideal bpm for running: https://www.openfit.com/find-running-bpm
+Perfect music for daily activities: https://mashable.com/2015/04/16/beats-per-minute-daily-routine/?europe=true
+Valence: https://www.quora.com/How-does-Spotify-estimate-the-valence-of-a-song
+
+Callback: https://stackoverflow.com/questions/56653292/how-do-i-callback-to-my-own-app-from-spotify-api
