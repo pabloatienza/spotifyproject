@@ -2,11 +2,11 @@
 
 import requests
 
-Client_ID = '0bb5a02df2744ae9aadfaf7d2257bdea'
-Client_Secret = 'e17076bb2d4643e88326558c84205761'
+Client_ID = '*******************************'
+Client_Secret = '******************************'
 
-User_ID = 'pabloatienzaa'
-OnRepeat_ID = '37i9dQZF1EpnwnCkUBgJsO'
+User_ID = '*************'
+OnRepeat_ID = '******************'
 
 Song_ID = '1XylkHvQL5p3w8f7yuDgxu'
 
